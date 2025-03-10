@@ -1,0 +1,17 @@
+{
+  "name": "R with Jupyter in Anaconda",
+  "image": "mcr.microsoft.com/devcontainers/anaconda:3",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "quarto.quarto",
+        "REditorSupport.r",
+        "mechatroner.rainbow-csv"
+      ]
+    }
+  },
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "forwardPorts": [8888]
+}
