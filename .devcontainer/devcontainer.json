@@ -1,6 +1,8 @@
 {
   "name": "R with Jupyter in Anaconda",
-  "image": "mcr.microsoft.com/devcontainers/anaconda:3",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   "features": {},
   "customizations": {
     "vscode": {
