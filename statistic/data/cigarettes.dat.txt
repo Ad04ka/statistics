@@ -1,4 +1,3 @@
-name            tar   nicotine weight carbon_monoxide 
 Alpine 		14.1  .86  .9853  13.6
 Benson&Hedges	16.0 1.06 1.0938  16.6
 BullDurham	29.8 2.03 1.1650  23.5
